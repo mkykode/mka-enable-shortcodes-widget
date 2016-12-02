@@ -1,4 +1,4 @@
-#Enable Shortcodes in Text Widgets
+#Enable Wordpress Shortcodes in Text Widgets
 
 Add plugin and activate it.
 
